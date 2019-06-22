@@ -52,3 +52,7 @@ C:\Users\Dell\Desktop\Курсовая+Тексты\Project\Tests\obj\Debug\Test
 C:\Users\Dell\Desktop\Курсовая+Тексты\Project\Tests\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\Dell\Desktop\Курсовая+Тексты\Project\Tests\obj\Debug\Tests.dll
 C:\Users\Dell\Desktop\Курсовая+Тексты\Project\Tests\obj\Debug\Tests.pdb
+C:\Users\Dell\123\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Dell\123\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dell\123\Tests\obj\Debug\Tests.dll
+C:\Users\Dell\123\Tests\obj\Debug\Tests.pdb
